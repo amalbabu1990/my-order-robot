@@ -1,0 +1,9 @@
+{
+    "FolderNames": {
+        "ReceiptsSaveFolderName": "Receipts",
+        "PDFSaveFolderName": "PDFs",
+        "ScreenshotFolderName": "Screenshots",
+        "OutputFolderName": "Output",
+        "Some Data": "Some Value"
+    }
+}
